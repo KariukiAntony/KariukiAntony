@@ -6,10 +6,10 @@ How to reach me: **antonygichoya9@gmail.com**
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KariukiAntony&show_icons=true&theme=chartreuse-dark" />
 <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariukiAntony" /> -->
 <a href="https://github.com/KariukiAntony/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KariukiAntony&show_icons=true&theme=chartreuse-dark" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KariukiAntony&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/KariukiAntony/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 </a>
 
 <img width="400px" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=KariukiAntony&theme=vision-friendly-dark"  />
