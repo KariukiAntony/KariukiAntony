@@ -8,7 +8,7 @@ How to reach me: **antonygichoya9@gmail.com**
 <a href="https://github.com/KariukiAntony/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KariukiAntony&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/KariukiAntony/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 </a>
 
