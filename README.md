@@ -1,4 +1,7 @@
-# Hi there, I'm Antony 👋
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+&weight=700&duration=4977&pause=1000&color=E6F710&background=000000&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Antony%2C;A+passionate+backend+developer;And+an+aspiring+software+developer;I'm+always+eager+to+learn+new++staff+;And+contribute+to+making+the+world+;A+better+place+with+the+help+of+tech">
+</p><br>
+
 #### Welcome to my GitHub profile! I'm excited to share my passion for software development and showcase my projects with you. As an upcoming software developer, you'll find a variety of repositories here that showcase my skills and experience.<br>
 ![github](https://img.shields.io/github/followers/KariukiAntony?style=plastic)<br>
 How to reach me: **antonygichoya9@gmail.com**
