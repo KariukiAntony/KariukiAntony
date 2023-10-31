@@ -14,9 +14,7 @@
 ![github](https://img.shields.io/github/followers/KariukiAntony?style=plastic) <img src="https://komarev.com/ghpvc/?username=kariukiantony&label=Profile%20views&color=0e75b6&style=flat" alt="kariukiantony" /> 
 
 How to reach me: **antonygichoya9@gmail.com**
-<!--
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KariukiAntony&show_icons=true&theme=chartreuse-dark" />
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariukiAntony" /> -->
+
 <a href="https://github.com/KariukiAntony/github-readme-stats">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KariukiAntony&show_icons=true&theme=chartreuse-dark" />
 </a>
@@ -24,11 +22,10 @@ How to reach me: **antonygichoya9@gmail.com**
   <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 </a>
 
-<img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KariukiAntony&theme=vision-friendly-dark"  />
+<img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KariukiAntony&theme=chartreuse-dark"  />
 <h3>Languages that i have expertise in: </h3>
 <!-- https://github.com/Ileriayo/markdown-badges#markdown-badges -->
 
-<!-- ![github](https://img.shields.io/github/followers/KariukiAntony?style=plastic) -->
 
 #### If you have any questions or feedback, don't hesitate to reach out. I'm always looking to connect with like-minded individuals and improve my craft. Thank you for visiting my profile, and I look forward to hearing from you!
 </left>
