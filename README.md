@@ -38,7 +38,7 @@ How to reach me: **antonygichoya9@gmail.com**
 # Tools
 ![My Awesome GIF](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-#### If you have any questions or feedback, don't hesitate to reach out. I'm always looking to connect with like-minded individuals and improve my craft. Thank you for visiting my profile, and I look forward to hearing from you!
+### If you have any questions or feedback, don't hesitate to reach out. I'm always looking to connect with like-minded individuals and improve my craft. Thank you for visiting my profile, and I look forward to hearing from you!
 </left>
 
 ![Wave GIF](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif)
