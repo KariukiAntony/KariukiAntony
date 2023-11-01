@@ -5,7 +5,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt=""/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt=""/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt=""/> </a></a><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt=""/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt=""/> </a></p>
 <p>
   
-  - ⚡ weird fact: **I am still a virgin**
+  - ⚡ weird fact: **I am still a virgin**  <img src="https://user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" alt="My Awesome GIF" width="70" height="50">
   
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+&weight=700&duration=4977&pause=1000&color=E6F710&background=000000&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Antony%2C;A+passionate+backend+developer;And+an+aspiring+software+developer;I am+always+eager+to+learn+new++stuff+;And+contribute+to+making+the+world+;A+better+place+with+the+help+of+tech"></p>
 
