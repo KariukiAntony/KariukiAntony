@@ -1,4 +1,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" alt="My Awesome GIF" width="1000" height="400"> -->
+### The more you code, the more you decode, your bugs explode, your patience erodes, so keep on debugging!
+
 ![Snake animation](https://raw.githubusercontent.com/KariukiAntony/KariukiAntony/output/github-contribution-grid-snake-dark.svg)
 
 <h3>Fast scan:</h3>
