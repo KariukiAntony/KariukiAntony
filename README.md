@@ -35,25 +35,12 @@ How to reach me: **antonygichoya9@gmail.com**
 </a>
 <a href="https://github.com/KariukiAntony/convoychat">
   <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
-</a>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/KariukiAntony/convoychat">
-      <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
-      </a>
-    </td>
-    <td height="140" width="200" align="left">
-      <a href="https://github.com/KariukiAntony/convoychat">
-        <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+</a><br><br>
+
 <table>
   <tr>
     <td align="left"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=KariukiAntony&theme=chartreuse-dark" /></td>
-    <td align="right"><img width="450px"src="https://github-readme-stats.vercel.app/api/pin/?username=KariukiAntony&theme=chartreuse-dark&repo=Africas-Talking-APIs"> </td>
+    <td align="right"><img width="450px"src="https://github-readme-stats.vercel.app/api/pin/?username=KariukiAntony&theme=chartreuse-dark&repo=Africas-Talking-APIs" </td>
   </tr>
 </table>
 
