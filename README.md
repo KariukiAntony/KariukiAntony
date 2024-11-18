@@ -1,4 +1,5 @@
 <!-- https://github.com/Ileriayo/markdown-badges#markdown-badges -->
+
 ### The more you code, the more you decode, your bugs explode, your patience erodes, so keep on debugging!
 
 ![Snake animation](https://raw.githubusercontent.com/KariukiAntony/KariukiAntony/output/github-contribution-grid-snake-dark.svg)
@@ -21,9 +22,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,prometheus,grafana,aws,azure,jenkins,githubactions,npm,vim,linux,ansible,nginx&perline=15)](https://skillicons.dev)
 
-  ⚡ weird fact: **I am still a virgin**  <img src="https://user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" alt="My Awesome GIF" width="70" height="50">
+⚡ weird fact: **I am still a virgin** <img src="https://user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" alt="My Awesome GIF" width="70" height="50">
 
 ### Welcome to my GitHub profile! I'm excited to share my passion for software development and showcase my projects with you. As an upcoming software developer, you'll find a variety of repositories here that showcase my skills and experience.<br>
+
 ![github](https://img.shields.io/github/followers/KariukiAntony?style=plastic) <img src="https://komarev.com/ghpvc/?username=kariukiantony&label=Profile%20views&color=0e75b6&style=flat" alt="kariukiantony" />
 
 How to reach me: **antonygichoya9@gmail.com**
@@ -33,21 +35,34 @@ How to reach me: **antonygichoya9@gmail.com**
 </a>
 <a href="https://github.com/KariukiAntony/convoychat">
   <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
-</a><br><br>
-
+</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/KariukiAntony/convoychat">
+      <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+      </a>
+    </td>
+    <td height="140" width="200" align="left">
+      <a href="https://github.com/KariukiAntony/convoychat">
+        <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td align="left"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=KariukiAntony&theme=chartreuse-dark" /></td>
-    <td align="right"><img width="450px"src="https://github-readme-stats.vercel.app/api/pin/?username=KariukiAntony&theme=chartreuse-dark&repo=Africas-Talking-APIs" </td>
+    <td align="right"><img width="450px"src="https://github-readme-stats.vercel.app/api/pin/?username=KariukiAntony&theme=chartreuse-dark&repo=Africas-Talking-APIs"> </td>
   </tr>
 </table>
 
-
 # Other Tools
+
 ![My Awesome GIF](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ### If you have any questions or feedback, don't hesitate to reach out. I'm always looking to connect with like-minded individuals and improve my craft. Thank you for visiting my profile, and I look forward to hearing from you!
+
 </left>
 
 ![Wave GIF](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif)
-
