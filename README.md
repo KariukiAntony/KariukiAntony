@@ -37,12 +37,14 @@ How to reach me: **antonygichoya9@gmail.com**
   <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KariukiAntony&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 </a><br><br>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=KariukiAntony&theme=chartreuse-dark" /></td>
     <td align="right"><img width="450px"src="https://github-readme-stats.vercel.app/api/pin/?username=KariukiAntony&theme=chartreuse-dark&repo=Africas-Talking-APIs" </td>
   </tr>
 </table>
+
+[![Antony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KariukiAntony&theme=github-compact&bg_color=000000&color=6BC71D&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Other Tools
 
