@@ -4,7 +4,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/KariukiAntony/KariukiAntony/output/github-contribution-grid-snake-dark.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4977&pause=1000&color=DAF724&background=000000FB&width=435&lines=Hello!+I+am+Antony%2C;A+passionate+Backend+developer;And+a+DevOps+engineer+dedicated+to+;building+scalable%2C+robust%2C+and+;efficient+systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=DAF724&background=000000FB&vCenter=true&width=435&lines=Hello!+I+am+Antony%2C+a+passionate;Backend+and+Devops+engineer;Dedicated+to+building+scalable%2C;Robust+and+efficient+systems.)](https://git.io/typing-svg)
 
 <h3>Languages:</h3>
 
